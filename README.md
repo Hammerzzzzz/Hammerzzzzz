@@ -45,7 +45,9 @@ I'm not a developer by trade. I'm a marketer who ships.
 ## 🧰 Toolkit
 
 **Strategy:** brand & social strategy · digital transformation · performance & data · P&L · team leadership
+
 **Platforms:** Meta, LinkedIn, TikTok, Google Ads/GA4, influencer & social listening tools
+
 **AI & build:** Claude, ChatGPT, AI agents & workflow automation · MCP, llms.txt & AI search visibility · Google Maps APIs · GitHub · Render · Node, Python, HTML/JS (with AI)
 
 ---
